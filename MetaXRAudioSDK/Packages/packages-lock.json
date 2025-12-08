@@ -1,12 +1,5 @@
 {
   "dependencies": {
-    "com.meta.xr.sdk.audio": {
-      "version": "67.0.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
     "com.meta.xr.sdk.core": {
       "version": "59.0.0",
       "depth": 0,
