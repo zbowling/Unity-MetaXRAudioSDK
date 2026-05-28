@@ -34,3 +34,9 @@ Unity documentation for building Android applications can be found [here](https:
     ````
 
 1. Open the application through your Quest device's App Library. The application will likely be listed under the **Unknown Sources** section.
+
+## AI coding agents
+
+This repo is wired up for AI coding agents — `AGENTS.md`, `.vscode/extensions.json`, `.mcp.json`, `.cursor/rules/`, and a few client-specific dotfiles surface the **Meta Horizon** VS Code/Cursor extension, the `hzdb` MCP server, and the Meta Quest skill set automatically.
+
+Full toolchain, including Unity skills and per-client install instructions: [github.com/meta-quest/agentic-tools](https://github.com/meta-quest/agentic-tools).
